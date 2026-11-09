@@ -6,7 +6,7 @@ go 1.27.3
 
 require (
 	github.com/gotenberg/gotenberg/v8 v8.40.0
-	github.com/spf13/pflag v1.0.10
+	github.com/spf13/pflag v1.1.0
 	go.uber.org/multierr v1.11.0
 )
 
